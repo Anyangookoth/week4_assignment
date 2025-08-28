@@ -1,0 +1,3 @@
+Hello, this is my Week 4 assignment.
+I am learning Python file handling.
+This is fun!
